@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateTime Task", "DateTime Task\DateTime Task.csproj", "{3DBAD85F-FA0A-426D-A92E-1B3DE7F1608E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DBAD85F-FA0A-426D-A92E-1B3DE7F1608E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DBAD85F-FA0A-426D-A92E-1B3DE7F1608E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DBAD85F-FA0A-426D-A92E-1B3DE7F1608E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DBAD85F-FA0A-426D-A92E-1B3DE7F1608E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC9225E8-0DBD-432B-825E-7D5C4DDCC434}
+	EndGlobalSection
+EndGlobal
