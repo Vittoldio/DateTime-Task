@@ -27,7 +27,7 @@ namespace DateTime_Task
                     months = InputNumber();
                 }
             }
-            Console.WriteLine("впишите день, все даты которого вы ходите узнать в этот месяц");
+            Console.WriteLine("введите название дня недели, даты которого вы ходите знать в ведённом месяце");
             string selection = Console.ReadLine();
             selection.ToLower();
             switch(selection)
